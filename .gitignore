@@ -1,0 +1,5 @@
+#project ignore folder and file
+*.o
+*~
+crosstool-build/
+
